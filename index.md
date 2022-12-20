@@ -1,8 +1,7 @@
 ---
-title: Welcome to my website
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
----
+title: 'Bienvenue dans lg consulting  '
+feature_image: https://images.app.goo.gl/QydaNHif6yqLmJse7
+feature_text: "## Hello world\n"
 
-There isn't much going on here yet, but watch this space
+---
+Il ne se passe pas grand choisi ici pour le moment, mais surveillez cet espace
